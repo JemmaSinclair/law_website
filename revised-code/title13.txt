@@ -1,0 +1,102 @@
+# TITLE 13. SENTENCING ENHANCEMENTS
+
+## (13)00. Exception
+
+### 0.01 Exceptions to Sentencing Enhancements:
+
+(a) Modification of Penal Code Entries: Sentencing Enhancements within Title 13 may modify penal code entries by default. However, exceptions within penal code entries or explicit exceptions take precedence over Sentencing Enhancement policies.
+
+(b) Example: In cases where (1)06. Murder cannot be charged for an attempt as an entire charge, (1)04. Attempted Murder exists for that purpose, and the exception in (1)04 takes precedence.
+
+### 0.02 Stackable Penalties:
+
+(a) General Principle: Penalties are stackable for each occurrence of an offense. Separate police incidents, occurrences at different times, offenses against different people, or charges for each prohibited object possessed may lead to stackable charges.
+
+(b) Assault Example: Charges for assault can be stacked for each occurrence, person assaulted, or prohibited object possessed, as long as there is no explicit exception.
+
+### 0.03 Calculation of Additional Punishment Time:
+
+(a) Stacked Charges: Each stacked charge equals additional punishment time for that specific charge.
+
+(b) Example: A person committing two counts of assault will be charged twice the amount of time, provided it doesn't violate maximum imprisonment policies.
+
+### 0.04 Maximum Imprisonment Policies:
+
+(a) Limitations: Stacked charges should not violate maximum imprisonment policies set forth in relevant penal code entries or exceptions.
+
+(b) Compliance: Additional punishment time for stacked charges shall not exceed the maximum imprisonment specified in the relevant penal code entry or exception.
+
+## (13)01. Attempt
+
+### 1.01 Sentencing Enhancement for Attempted Crimes:
+
+(a) Definition: Attempt is defined as the act of trying to commit a crime but failing, being prevented, or intercepted in its perpetration.
+
+(b) Equal Punishment: A person who attempts to commit any crime, but fails, is prevented, or intercepted, shall be subject to the same punishment as if the offense was successfully committed.
+
+(c) Exception: This sentencing enhancement applies unless an exception is explicitly stated within the relevant penal code entry.
+
+## (13)02. Conspiracy
+
+### 2.01 Sentencing Enhancement for Conspiracy:
+
+(a) Definition: Conspiracy is defined as an agreement between two or more persons to commit a crime, falsely and maliciously indict another for any crime, or procure another to be charged or arrested for any crime.
+
+(b) Equal Punishment: If two or more persons conspire to commit any crime, falsely and maliciously indict another for any crime, or procure another to be charged or arrested for any crime, they shall be subject to the same punishment as if the offense was committed.
+
+(c) Exception: This sentencing enhancement applies unless an exception is explicitly stated within the relevant penal code entry.
+
+## (13)03. Soliciting
+
+### 3.01 Sentencing Enhancement for Soliciting:
+
+(a) Definition: Soliciting is defined as the act of seeking, enticing, or requesting another person to commit or perpetrate any crime.
+
+(b) Equal Punishment: A person who solicits for the commission or perpetration of any crime shall be subject to the same punishment as if the offense was committed.
+
+(c) Exception: This sentencing enhancement applies unless an exception is explicitly stated within the relevant penal code entry.
+
+## (13)04. Weapons Violation
+
+### 4.01 Firearms Violation Policies:
+
+(a) Felony with Firearm Possession: A person who commits a felony while in possession of a firearm shall have their firearms permit revoked.
+
+(b) Illegal or Irresponsible Firearm Usage: Individuals demonstrating illegal or irresponsible usage of their firearm shall be subject to firearms permit suspension or revocation based on the penal code entry of the firearms violation. In the absence of a description, officer discretion will determine the appropriate action.
+
+(c) Two Suspensions Trigger Revocation: If a person receives two suspensions of their firearms permit, their permit shall be revoked immediately upon the second incident.
+
+(d) Applicability to Facilities and Organizations: These violation policies apply, where appropriate, to licenses and permits issued to facilities and organizations.
+
+(e) Future Firearms Permits: These policies also apply to any current and future firearms permits created for purposes determined by the agency responsible for firearms regulation.
+
+## (13)05. Criminal Accomplice Clause
+
+### 5.01 Full Punishment for Accomplice:
+
+(a) Definition of Accomplice: An accomplice is defined as a person who acts in a supportive role, providing aid, advice, or assistance to another person in their attempted or successful criminal acts.
+
+(b) Equal Punishment: A person who acts as an accomplice, aid, adviser, or in any other supportive role to another person's attempted or successful criminal acts shall receive the full punishment allotted to the person who attempted or succeeded in committing the criminal acts.
+
+## (13)06. Accessory After the Fact
+
+### 6.01 Punishment for Accessory After the Fact:
+
+(a) Definition: An accessory after the fact is defined as a person who knowingly and willingly helps another person who has successfully committed a criminal act.
+
+(b) Punishment Ratio: A person found guilty as an accessory after the fact shall receive HALF the punishment issued to the person who committed the criminal act.
+
+(c) Examples of Actions: Examples of actions constituting accessory after the fact include harboring a fugitive, helping destroy or distort evidence, withholding information related to a crime, or assisting the person in eluding or avoiding police custody.
+
+## (13)07. On a Peace Officer
+
+### 7.01 Enhancement for Offenses on a Peace Officer or K9:
+
+(a) Applicability: This enhancement is applicable to any charge that was committed on a Peace Officer or K9.
+
+(b) Penalties for Violations: Violations enhanced with this section are classified as misdemeanors with the following penalties:
+
+		(i) $500 fine.
+		(ii) 30 seconds of imprisonment.
+
+(c) Note: This enhancement should only be applied to enhance violent codes. Use on non-violent or unrelated codes will be subject to official review.

@@ -1,0 +1,1061 @@
+# TITLE 8. VEHICULAR OFFENSES
+## (8)00. Applicability
+
+### 0.01 Scope:
+
+(a) General Applicability: The provisions of this title shall apply to all individuals operating motor vehicles within the jurisdiction of the state of San Andreas.
+
+(b) Exceptions: Certain provisions within this title may have specific applicability to certain types of vehicles, circumstances, or individuals, as explicitly outlined in the relevant sections.
+
+### 0.02 Purpose:
+
+(a) Regulation and Safety: The purpose of this title is to regulate the operation of motor vehicles to ensure the safety of individuals on the road, promote responsible driving behavior, and maintain the orderly flow of traffic.
+
+(b) Enforcement: Law enforcement agencies are authorized to enforce the provisions of this title, and violations may result in penalties, fines, or other appropriate measures.
+
+### 0.03 Compliance:
+
+(a) Obligation to Comply: All individuals operating motor vehicles within the jurisdiction of the state of San Andreas are obligated to comply with the provisions outlined in this title.
+
+(b) Penalties for Non-Compliance: Non-compliance with the provisions of this title may result in penalties, fines, or other appropriate measures as determined by the court.
+
+### 0.04 Amendments:
+
+(a) Authority to Amend: The state legislature reserves the authority to amend or modify the provisions of this title as needed to address changing conditions, enhance safety, or improve traffic management.
+
+(b) Public Notice: Any amendments or modifications to this title shall be made with appropriate public notice and communication to ensure awareness among the affected population.
+
+### 0.05 Effective Date:
+
+(a) Implementation: The provisions of this title shall be effective upon approval by the state legislature and the designated authorities responsible for law enforcement and traffic management.
+
+(b) Compliance Date: All individuals are expected to comply with the provisions of this title from the effective date onward.
+
+## (8)01. Driver License Point System
+
+### 1.01 Purpose:
+
+(a) Regulation of Driver Behavior: The Driver License Point System is established to regulate and monitor the behavior of drivers, encouraging safe and responsible operation of motor vehicles on the road.
+
+(b) Points Allocation: Points shall be allocated for specific traffic violations or offenses committed by drivers, with the accumulation of points leading to consequences outlined in this section.
+
+### 1.02 Point Allocation:
+
+(a) Violation Points: Points shall be allocated based on the severity of traffic violations. The point values for specific violations shall be determined by the state legislature and communicated through official channels.
+
+(b) Accumulation Limits: Drivers accumulating a predetermined number of points within a specified time frame may face consequences, including but not limited to license suspension, mandatory driving courses, or other appropriate measures.
+
+### 1.03 Consequences for Point Accumulation:
+
+(a) Warning Letter: Upon reaching a predetermined threshold, drivers may receive a warning letter informing them of their point total and advising them to exercise caution and comply with traffic laws.
+
+(b) Mandatory Driving Course: Drivers surpassing a higher point threshold may be required to complete a mandatory driving course aimed at reinforcing safe driving practices.
+
+(c) License Suspension: Continued accumulation of points beyond prescribed limits may result in the suspension of the driver's license for a specified period. Reinstatement may require the completion of additional requirements, such as the aforementioned driving course.
+		
+		(i) The threshold for License Suspension will sit at 6 points.
+		(ii) Mandatory Driving Course may be attended to avoid License Suspension.
+		
+(d) Points Expungement: Points may be expunged from a driver's record after a defined period of safe driving behavior, completion of driving courses, or other designated measures.
+
+### 1.04 Appeals and Reviews:
+
+(a) Right to Appeal: Drivers have the right to appeal point allocations and consequences. Appeals shall be conducted in accordance with established procedures, allowing drivers to present evidence or arguments supporting their case.
+
+(b) Periodic Reviews: The Driver License Point System shall undergo periodic reviews to ensure its effectiveness in promoting safe driving behavior. Adjustments may be made based on the analysis of traffic data, accident rates, and other relevant factors.
+
+### 1.05 Public Awareness:
+
+(a) Communication: The point system, its allocation, and consequences shall be communicated to the public through various channels, including but not limited to driver education programs, official websites, and informational materials distributed by relevant authorities.
+
+(b) Transparency: The point system shall be transparent, with information readily accessible to drivers to facilitate compliance and understanding of the consequences associated with traffic violations.
+
+## (8)02. Vehicle Registration
+
+### 2.01 Purpose:
+
+(a) Record Keeping: The Vehicle Registration system is established to maintain accurate and up-to-date records of motor vehicles operating within the jurisdiction of the state of San Andreas.
+
+(b) Identification and Compliance: Vehicle registration serves as a means of identifying and ensuring compliance with state regulations, including safety and emissions standards.
+
+### 2.02 Registration Requirements:
+
+(a) Mandatory Registration: All motor vehicles, including but not limited to cars, motorcycles, trucks, and recreational vehicles, must be registered with the appropriate state authorities before operating on public roads.
+
+(b) Renewal Periods: Vehicle registration must be renewed at regular intervals, as specified by state regulations. Failure to renew within the designated period may result in penalties, fines, or other consequences.
+
+### 2.03 Registration Process:
+
+(a) Application Submission: Vehicle owners shall submit a registration application containing accurate and current information about the vehicle, ownership, and other relevant details.
+
+(b) Inspection Requirements: Some vehicles may be subject to inspection as part of the registration process to ensure compliance with safety and emissions standards.
+
+(c) Registration Fees: Vehicle owners shall pay applicable registration fees, the amount of which may vary based on factors such as vehicle type, weight, and emissions.
+
+### 2.04 Consequences for Unregistered Vehicles:
+
+(a) Penalties for Non-Compliance: Operating an unregistered vehicle on public roads may result in penalties, fines, or impoundment of the vehicle. Repeat offenses may lead to more severe consequences.
+
+		(i) Any operation of vehicles lacking registration on public roadways will result in a fine of $250 and impoundment of the vehicle.
+
+(b) Towing and Impoundment: Law enforcement agencies are authorized to tow and impound vehicles found to be operating without valid registration, with associated fees and costs borne by the vehicle owner.
+
+### 2.05 Registration Renewal Reminders:
+
+(a) Notification: Vehicle owners shall receive timely reminders, via mail or electronic means, prompting them to renew their vehicle registration before the expiration date.
+
+(b) Grace Period: A grace period may be granted to allow vehicle owners a reasonable timeframe to renew their registration after the expiration date without incurring penalties.
+
+### 2.06 Transfer of Ownership:
+
+(a) Notification Requirement: In the event of the sale or transfer of ownership of a registered vehicle, the seller must notify the appropriate authorities to update the registration records.
+
+(b) Buyer Responsibility: The buyer of a used vehicle is responsible for completing the necessary steps to transfer ownership and update the registration records within a specified timeframe.
+
+### 2.07 Special Registration Categories:
+
+(a) Commercial Vehicles: Commercial vehicles may be subject to additional registration requirements, fees, and inspections to ensure compliance with safety and operational standards.
+
+(b) Specialty Vehicles: Specialty vehicles, including but not limited to recreational vehicles, trailers, and custom-built vehicles, may have specific registration categories and requirements.
+
+### 2.08 Public Accessibility of Registration Information:
+
+(a) Transparency: Certain vehicle registration information may be made accessible to the public, allowing individuals to verify the registration status of a vehicle.
+
+(b) Privacy Protections: Personal information of vehicle owners shall be protected in accordance with state privacy laws, and only relevant registration details shall be made public.
+
+## (8)03. Drivers Licenses
+
+### 3.01 Purpose
+
+(a) Authorization and Regulation: The Driver's License system is established to authorize individuals to operate motor vehicles and to regulate and monitor driver behavior, ensuring the safety of all road users.
+
+(b) Identification: Driver's licenses serve as a means of personal identification and verification of an individual's eligibility to operate a motor vehicle within the state of San Andreas.
+
+### 3.02 Licensing Requirements:
+
+(a) Eligibility: To be eligible for a driver's license, an individual must meet the age, residency, and other requirements as specified by state regulations.
+
+(b) Testing and Education: Applicants must successfully complete written and practical examinations, as well as any required driver education programs, to obtain a driver's license.
+
+### 3.03 Failure to Comply
+
+(a) Any operation of a motor vehicle without a valid drivers license will result in a fine of $300 and impoundment of the vehicle.
+
+(b) Any operation of a motor vehicle with a suspended or revoked license will result in a fine of $400, impoundment of the vehicle, and further restriction on the license.
+
+### 3.05 License Suspension and Revocation:
+
+(a) Grounds for Suspension or Revocation: Driver's licenses may be suspended or revoked for reasons including but not limited to reckless driving, driving under the influence, accumulation of excessive points, or failure to comply with state regulations.
+
+(b) Duration and Reinstatement: The duration of suspension or revocation shall be determined by the nature of the violation. Individuals may be required to complete specified requirements for license reinstatement.
+
+### 3.06 Lost or Stolen Licenses:
+
+(a) Reporting Requirement: Individuals must promptly report lost or stolen driver's licenses to the appropriate authorities.
+
+(b) Replacement Process: A replacement driver's license may be obtained by submitting an application and paying a replacement fee of $25.
+
+## (8)04. Accident Reporting Requirements
+
+### 4.01 Purpose:
+
+(a) Public Safety and Accountability: The Accident Reporting Requirements are established to ensure the prompt and accurate reporting of vehicular accidents, contributing to public safety and accountability for individuals involved in such incidents.
+
+(b) Timely Resolution: Reporting accidents in a timely manner enables law enforcement and relevant authorities to conduct investigations, facilitate insurance claims, and ensure appropriate measures are taken to address property damage or injuries.
+
+### 4.02 Duty to Report Accidents:
+
+(a) Obligation to Report: Any person involved in a vehicular accident resulting in property damage, injury, or death shall promptly report the incident to the appropriate law enforcement agency.
+
+(b) Reporting Timeframe: Reports must be made within a reasonable timeframe following the accident, with specific timeframes defined by state regulations.
+
+### 4.03 Reporting Procedures:
+
+(a) Information to be Provided: Individuals reporting accidents shall provide accurate and comprehensive information, including but not limited to details about the vehicles involved, the extent of damage, injuries sustained, and contact information for parties involved.
+
+(b) Location and Time: Accurate reporting of the location and time of the accident is essential for effective law enforcement response and proper documentation.
+
+### 4.04 Penalties for Non-Compliance:
+
+(a) Property Damage Accidents: Failure to report a vehicular accident resulting in property damage may result in a minimum fine of $200, in addition to other legal consequences.
+
+(b) Accidents Resulting in Injury: Failure to report an accident resulting in injury may result in a Misdemeanor with a minimum fine of $500, and a minimum of 30 days in jail.  Jailtime may be waived based on officer discretion.
+
+(c) Accidents Resulting in Death: Failure to report an accident resulting in Death may result in a Felony with a minimum fine of $1,000, and a minumum of 1 year in jail.
+
+		(i) Accidents resulting in death with evidence of premeditation falls under (1)06. Murder.
+
+### 4.05 Investigation and Documentation:
+
+(a) Law Enforcement Response: Law enforcement agencies shall respond promptly to reported accidents, conducting necessary investigations and documenting relevant details for official records.
+
+(b) Insurance Claims: Accurate reporting facilitates the processing of insurance claims, ensuring timely compensation for property damage and injuries sustained by parties involved.
+
+### 4.06 Public Awareness:
+
+(a) Communication: Information regarding the duty to report accidents, reporting procedures, and associated penalties shall be communicated to the public through various channels, including official websites, informational materials, and driver education programs.
+
+(b) Accessibility: Relevant accident reporting information shall be easily accessible to the public, promoting awareness and compliance with state regulations.
+
+## (8)05. Vehicle Insurance
+
+### 5.01 Purpose:
+
+(a) Financial Responsibility and Protection: The Vehicle Insurance requirements are established to ensure that individuals operating motor vehicles within the state of San Andreas maintain financial responsibility to cover potential damages and injuries resulting from vehicular accidents.
+
+(b) Public Safety: Adequate insurance coverage promotes public safety by providing a means of financial compensation for victims of accidents and facilitating the timely resolution of claims.
+
+### 5.02 Mandatory Insurance Coverage:
+
+(a) Minimum Coverage Requirements: All individuals operating motor vehicles must maintain a minimum level of insurance coverage as specified by state regulations. This coverage typically includes liability insurance to cover property damage and bodily injuries caused to others in an accident.
+
+(b) Proof of Insurance: Individuals must be able to provide proof of valid insurance coverage upon request by law enforcement or other relevant authorities.
+
+### 5.03 Consequences for Lack of Insurance:
+
+(a) Penalties for Non-Compliance: Operating a motor vehicle without the required insurance coverage may result in a minimum fine of $500, in addition to other legal consequences as determined by the court.
+
+(b) Vehicle Impoundment: Law enforcement agencies are authorized to impound vehicles found to be operating without valid insurance coverage, with associated fees and costs borne by the vehicle owner.
+
+### 5.04 Reporting Changes in Insurance:
+
+(a) Duty to Report: Individuals are obligated to report any changes in insurance coverage to the appropriate authorities within a specified timeframe.
+
+(b) Notification Process: Failure to report changes in insurance coverage may result in penalties or fines, as determined by state regulations.
+
+### 5.05 Uninsured and Underinsured Motorist Coverage:
+
+(a) Additional Protection: While not mandatory, individuals are encouraged to consider uninsured and underinsured motorist coverage to protect themselves from potential damages caused by inadequately insured or uninsured drivers.
+
+(b) Insurance Provider Obligations: Insurance providers shall inform policyholders about the availability and benefits of uninsured and underinsured motorist coverage.
+
+### 5.06 Public Awareness:
+
+(a) Communication: Information regarding mandatory insurance coverage, penalties for non-compliance, and the importance of additional coverage options shall be communicated to the public through various channels, including official websites, informational materials, and driver education programs.
+
+(b) Accessibility: Relevant insurance information shall be easily accessible to the public, promoting awareness and compliance with state regulations.
+
+## (8)06. Traffic Signals
+
+### 6.01 Purpose:
+
+(a) Traffic Control and Safety: The Traffic Signals section is established to regulate and control vehicular traffic, promoting safety and orderly movement on roadways within the state of San Andreas.
+
+(b) Signal Compliance: Drivers are required to adhere to traffic signals, including obeying the indications of green and red signals, to prevent accidents and ensure the smooth flow of traffic.
+
+### 6.02 Compliance with Green Signal:
+
+(a) Obligation to Proceed: Drivers encountering a green traffic signal are obligated to proceed through the intersection, yielding to pedestrians and other traffic as necessary.
+
+(b) Penalty for Non-Compliance: Failure to proceed through an intersection on a green signal without valid reasons may result in a minimum fine of $50, in addition to other legal consequences as determined by the court.
+
+### 6.03 Compliance with Red Signal:
+
+(a) Mandatory Stop: Drivers encountering a red traffic signal must come to a complete stop before the designated stopping line or intersection, and may proceed only when the signal changes to green.
+
+(b) Penalty for Non-Compliance: Failure to stop at a red traffic signal may result in a minimum fine of $100, in addition to other legal consequences as determined by the court.
+
+### 6.04 Right Turn on Red:
+
+(a) Permitted Turns: Where allowed by state regulations, drivers may make a right turn at a red traffic signal after coming to a complete stop and ensuring it is safe to proceed.
+
+(b) Penalty for Illegal Right Turn: Making an illegal right turn on red, where prohibited, may result in a minimum fine of $75, in addition to other legal consequences as determined by the court.
+
+### 6.05 Left Turn on Red from a One-Way Street:
+
+(a) Permitted Turns: Where allowed by state regulations, drivers on a one-way street may make a left turn at a red traffic signal after coming to a complete stop and ensuring it is safe to proceed.
+
+(b) Penalty for Illegal Left Turn: Making an illegal left turn on red from a one-way street, where prohibited, may result in a minimum fine of $75, in addition to other legal consequences as determined by the court.
+
+### 6.06 Traffic Signal Cameras:
+
+(a) Enforcement Tool: Traffic signal cameras may be employed at intersections to capture images or videos of vehicles violating signal regulations, aiding law enforcement in issuing citations.
+
+(b) Citation Process: Violations recorded by traffic signal cameras may result in citations being issued to the registered owner of the vehicle, with associated fines and penalties.
+
+### 6.07 Public Awareness:
+
+(a) Communication: Information regarding traffic signal regulations, penalties for non-compliance, and the use of traffic signal cameras shall be communicated to the public through various channels, including official websites, informational materials, and driver education programs.
+
+(b) Accessibility: Relevant traffic signal information shall be easily accessible to the public, promoting awareness and compliance with state regulations.
+
+## (8)07. Driving on the Right Side
+
+### 7.01 Purpose:
+
+(a) Traffic Flow and Safety: The Driving on the Right Side section is established to ensure the orderly flow of traffic and enhance road safety by specifying the proper side of the roadway for vehicular travel within the state of San Andreas.
+
+(b) Standard Road Usage: The standard practice of driving on the right side of the roadway contributes to the predictability of traffic movements, reducing the risk of accidents and promoting efficient transportation.
+
+### 7.02 Right-Side Driving Requirement:
+
+(a) General Rule: Except in specific situations as outlined by state regulations, drivers must operate their vehicles on the right side of the roadway.
+
+(b) Passing and Overtaking: Drivers may pass or overtake vehicles on the left side when it is safe to do so and in compliance with state regulations.
+
+### 7.03 Exceptions to Right-Side Driving:
+
+(a) Permitted Left-Side Driving: In certain situations, such as one-way streets or when directed by authorized traffic control devices, drivers may be permitted to operate on the left side of the roadway.
+
+(b) Special Circumstances: Drivers engaged in specific activities, such as turning left, avoiding obstacles, or complying with lawful instructions from law enforcement, may temporarily deviate from the right-side driving rule.
+
+### 7.04 Penalties for Non-Compliance:
+
+(a) Violation Penalty: Failure to drive on the right side of the roadway without a valid reason may result in a minimum fine of $75, in addition to other legal consequences as determined by the court.
+
+(b) Reckless Driving Enhancement: Persistent or egregious violations of the right-side driving rule may lead to enhanced penalties, including but not limited to fines, license suspension, or mandatory driving courses.
+
+### 7.05 Education and Public Awareness:
+
+(a) Driver Education: Information on the requirement to drive on the right side shall be included in driver education programs to ensure that new drivers are aware of and understand this fundamental traffic rule.
+
+(b) Public Communication: The importance of driving on the right side for safety and traffic efficiency shall be communicated to the public through various channels, including official websites, informational materials, and driver education programs.
+
+### 7.06 Accessibility of Information:
+
+(a) Transparency: Information regarding the requirement to drive on the right side of the roadway shall be easily accessible to the public, promoting awareness and compliance with state regulations.
+
+(b) Communication Channels: Relevant information shall be disseminated through official channels to ensure the widest possible reach and understanding among the driving population.
+
+## (8)08. Maintaining Lanes
+
+### 9.01 Purpose:
+
+(a) Traffic Order and Safety: The Maintaining Lanes section is established to ensure the orderly and safe movement of traffic by specifying the proper use and maintenance of designated lanes within the state of San Andreas.
+
+(b) Minimizing Traffic Disruptions: Adhering to lane-keeping rules contributes to the efficient flow of traffic, reduces the risk of accidents, and enhances overall road safety.
+
+### 9.02 Lane-Keeping Requirement:
+
+(a) General Rule: Drivers must operate their vehicles within a single lane and should not deviate from the designated lane except under specific circumstances as outlined by state regulations.
+
+(b) Lane Changing and Turn Indicators: When changing lanes or making turns, drivers must use appropriate signals to indicate their intentions and ensure safe transitions between lanes.
+
+### 9.03 Exceptions to Lane-Keeping:
+
+(a) Permitted Lane Changes: Drivers may change lanes when it is safe to do so and in compliance with state regulations, such as when passing another vehicle, avoiding obstacles, or responding to traffic conditions.
+
+(b) Turn Lane Usage: Drivers are permitted to use designated turn lanes for making turns, as indicated by road markings and signage.
+
+### 9.04 Prohibited Actions:
+
+(a) Weaving Between Lanes: Continuous and erratic weaving between lanes without valid reasons is prohibited.
+
+(b) Blocking Lanes: Drivers must not block or impede the flow of traffic by unnecessarily occupying multiple lanes simultaneously, except where permitted by state regulations.
+
+### 9.05 Penalties for Non-Compliance:
+
+(a) Violation Penalty: Failure to maintain lanes without a valid reason may result in a minimum fine of $75, in addition to other legal consequences as determined by the court.
+
+(b) Reckless Driving Enhancement: Persistent or egregious violations of lane-keeping rules may lead to enhanced penalties, including but not limited to fines, license suspension, or mandatory driving courses.
+
+### 9.06 Education and Public Awareness:
+
+(a) Driver Education: Information on the importance of maintaining lanes and safe lane-changing practices shall be included in driver education programs to promote awareness and understanding among new drivers.
+
+(b) Public Communication: The significance of lane-keeping for traffic order and safety shall be communicated to the public through various channels, including official websites, informational materials, and driver education programs.
+
+### 9.07 Accessibility of Information:
+
+(a) Transparency: Information regarding lane-keeping requirements shall be easily accessible to the public, promoting awareness and compliance with state regulations.
+
+(b) Communication Channels: Relevant information shall be disseminated through official channels to ensure the widest possible reach and understanding among the driving population.
+
+## (8)09. Following Distance
+
+### 9.01 Purpose:
+
+(a) Traffic Safety: The Following Distance section is established to promote traffic safety by specifying the minimum following distance that drivers must maintain between their vehicles and the vehicles ahead within the state of San Andreas.
+
+(b) Avoidance of Collisions: Maintaining a safe following distance reduces the risk of collisions, allows for appropriate reaction time, and contributes to overall road safety.
+
+### 9.02 Minimum Following Distance:
+
+(a) Standard Requirement: Drivers must maintain a minimum following distance behind the vehicle in front of them, allowing for a safe and reasonable stopping distance based on factors such as speed, road conditions, and weather.
+
+(b) Calculating Following Distance: The minimum following distance should be equivalent to at least one car length for every 10 miles per hour of speed, adjusted for adverse conditions.
+
+### 9.03 Tailgating Prohibition:
+
+(a) Prohibited Action: Tailgating, defined as following another vehicle too closely, is strictly prohibited.
+
+(b) Risk of Rear-End Collisions: Tailgating increases the risk of rear-end collisions and compromises the safety of both the tailgating driver and the driver being followed.
+
+### 9.04 Exceptions and Adjustments:
+
+(a) Safe Passing Distances: When overtaking another vehicle, drivers should ensure a safe passing distance before merging back into the lane in front of the overtaken vehicle.
+
+(b) Adjustments for Conditions: The minimum following distance may need to be increased in adverse conditions, such as heavy rain, snow, or low visibility, to ensure safe stopping distances.
+
+### 9.05 Penalties for Non-Compliance:
+
+(a) Violation Penalty: Failure to maintain a safe following distance may result in a minimum fine of $75, in addition to other legal consequences as determined by the court.
+
+(b) Reckless Driving Enhancement: Persistent or egregious violations of following distance rules may lead to enhanced penalties, including but not limited to fines, license suspension, or mandatory driving courses.
+
+### 9.06 Education and Public Awareness:
+
+(a) Driver Education: Information on the importance of maintaining a safe following distance shall be included in driver education programs to promote awareness and understanding among new drivers.
+
+(b) Public Communication: The significance of following distance for traffic safety shall be communicated to the public through various channels, including official websites, informational materials, and driver education programs.
+
+### 9.07 Accessibility of Information:
+
+(a) Transparency: Information regarding following distance requirements shall be easily accessible to the public, promoting awareness and compliance with state regulations.
+
+(b) Communication Channels: Relevant information shall be disseminated through official channels to ensure the widest possible reach and understanding among the driving population.
+
+## (8)10. Right of Way
+
+### 10.01 Purpose:
+
+(a) Traffic Order and Safety: The Right of Way section is established to define the rules governing the right of way in various traffic situations, promoting orderly movement and enhancing road safety within the state of San Andreas.
+
+(b) Avoidance of Conflicts: Clear guidelines regarding the right of way help prevent traffic conflicts, reduce the risk of accidents, and contribute to a smoother flow of traffic.
+
+### 10.02 General Right of Way Rules:
+
+(a) Yielding to Pedestrians: Drivers must yield the right of way to pedestrians in crosswalks and at intersections, allowing them to safely proceed before continuing.
+
+(b) Intersections and Traffic Signals: Compliance with traffic signals and stop signs determines the right of way at intersections, with drivers following designated signals and yielding as appropriate.
+
+### 10.03 Right of Way in Specific Situations:
+
+(a) Uncontrolled Intersections: At intersections without traffic signals or signs, drivers must yield to vehicles already in the intersection or approaching from the right.
+
+(b) Emergency Vehicles: Emergency vehicles with activated sirens and lights have the right of way, and drivers must yield to them by pulling over to the right and stopping if necessary.
+
+### 10.04 Right of Way in Turning Situations:
+
+(a) Left Turn Yield: When making a left turn, drivers must yield to oncoming traffic and pedestrians, proceeding only when it is safe to do so.
+
+(b) Right Turn on Red: Drivers may make a right turn on a red signal after coming to a complete stop and ensuring it is safe, yielding to pedestrians and oncoming traffic.
+
+### 10.05 Penalties for Failure to Yield:
+
+(a) Violation Penalty: Failure to yield the right of way as required by state regulations may result in a minimum fine of $75, in addition to other legal consequences as determined by the court.
+
+(b) Reckless Driving Enhancement: Persistent or egregious violations of right of way rules may lead to enhanced penalties, including but not limited to fines, license suspension, or mandatory driving courses.
+
+### 10.06 Education and Public Awareness:
+
+(a) Driver Education: Information on right of way rules shall be included in driver education programs to promote awareness and understanding among new drivers.
+
+(b) Public Communication: The importance of respecting right of way rules for traffic safety shall be communicated to the public through various channels, including official websites, informational materials, and driver education programs.
+
+### 10.07 Accessibility of Information:
+
+(a) Transparency: Information regarding right of way rules shall be easily accessible to the public, promoting awareness and compliance with state regulations.
+
+(b) Communication Channels: Relevant information shall be disseminated through official channels to ensure the widest possible reach and understanding among the driving population.
+
+## (8)11. Failure to Yield to Emergency Vehicles
+
+### 11.01 Purpose:
+
+(a) Emergency Vehicle Priority: The Failure to Yield to Emergency Vehicles section is established to emphasize the importance of giving priority to emergency vehicles, ensuring their unimpeded passage during emergency responses within the state of San Andreas.
+
+(b) Timely Response: Immediate and unobstructed access for emergency vehicles contributes to timely responses, aiding in the protection of life and property.
+
+### 11.02 Emergency Vehicle Definitions:
+
+(a) Designated Vehicles: Emergency vehicles include but are not limited to police cars, ambulances, fire trucks, and other vehicles displaying emergency lights and sirens during response operations.
+
+(b) Official Markings: Vehicles displaying official markings designating them as emergency vehicles are granted the right of way in accordance with state regulations.
+
+### 11.03 Right of Way to Emergency Vehicles:
+
+(a) Immediate Yield: Upon the approach of an emergency vehicle with activated lights and sirens, all other drivers must immediately yield the right of way, moving to the right side of the roadway and coming to a complete stop when safe.
+
+(b) Clear Pathway: Drivers shall create a clear pathway for the passage of emergency vehicles, refraining from blocking intersections, crosswalks, or any other route the emergency vehicle may take.
+
+### 11.04 Failure to Yield Penalties:
+
+(a) Violation Penalty: Failure to yield to an emergency vehicle may result in a minimum fine of $150, in addition to other legal consequences as determined by the court.
+
+(b) Reckless Driving Enhancement: Persistent or egregious failures to yield to emergency vehicles may lead to enhanced penalties, including but not limited to fines, license suspension, or mandatory driving courses.
+
+### 11.05 Enforcement and Accountability:
+
+(a) Law Enforcement Authority: Law enforcement agencies are authorized to enforce the failure to yield to emergency vehicles, taking appropriate action against violators.
+
+(b) Video and Photo Evidence: Violations captured by video or photo evidence, including traffic cameras, may be used for enforcement purposes, leading to citations and penalties for the registered owners of the vehicles involved.
+
+### 11.06 Education and Public Awareness:
+
+(a) Driver Education: Information on the importance of yielding to emergency vehicles shall be included in driver education programs to promote awareness and understanding among new drivers.
+
+(b) Public Communication: The significance of immediate compliance with emergency vehicle right of way rules shall be communicated to the public through various channels, including official websites, informational materials, and driver education programs.
+
+### 11.07 Accessibility of Information:
+
+(a) Transparency: Information regarding the obligation to yield to emergency vehicles shall be easily accessible to the public, promoting awareness and compliance with state regulations.
+
+(b) Communication Channels: Relevant information shall be disseminated through official channels to ensure the widest possible reach and understanding among the driving population.
+
+## (8)12. Turning
+
+### 12.01 Purpose:
+
+(a) Traffic Flow and Safety: The Turning section is established to regulate and guide turning maneuvers, promoting traffic flow and enhancing road safety within the state of San Andreas.
+
+(b) Intersection Order: Clear rules on turning movements at intersections and in other scenarios contribute to the prevention of accidents and the orderly movement of traffic.
+
+### 12.02 Right Turns:
+
+(a) Right Turn Permitted on Red: Unless posted otherwise, drivers are permitted to make a right turn at a red traffic signal after coming to a complete stop and ensuring it is safe to proceed.
+
+(b) Yield to Pedestrians and Traffic: Drivers making a right turn must yield to pedestrians in crosswalks and oncoming traffic, proceeding only when it is safe to do so.
+
+### 12.03 Left Turns:
+
+(a) Yield to Oncoming Traffic: When making a left turn at an intersection, drivers must yield to oncoming traffic and pedestrians, proceeding only when it is safe to do so.
+
+(b) Left Turn on Green Arrow: A left turn on a green arrow signal indicates the right of way for left-turning vehicles, who may proceed without yielding to oncoming traffic.
+
+### 12.04 U-Turns:
+
+(a) Permitted U-Turns: U-turns are generally permitted unless prohibited by signs or specific regulations. Drivers must ensure a safe and clear path before making a U-turn.
+
+(b) Yield and Signal: Drivers making a U-turn must yield to oncoming traffic and pedestrians and use appropriate signals to indicate their intention.
+
+### 12.05 Special Turns:
+
+(a) Obey Traffic Signs: Drivers must comply with traffic signs and signals indicating specific turning regulations, including "No Turn" or "Turn Only" signs.
+
+(b) Lane Discipline: When turning, drivers must use the appropriate lane and follow designated markings, avoiding wide turns that encroach on other lanes.
+
+### 12.06 Penalties for Turning Violations:
+
+(a) Violation Penalty: Turning violations may result in a minimum fine of $75, in addition to other legal consequences as determined by the court.
+
+(b) Reckless Turning Enhancement: Persistent or egregious turning violations, such as turning without yielding or making illegal U-turns, may lead to enhanced penalties, including but not limited to fines, license suspension, or mandatory driving courses.
+
+### 12.07 Education and Public Awareness:
+
+(a) Driver Education: Information on safe turning practices shall be included in driver education programs to promote awareness and understanding among new drivers.
+
+(b) Public Communication: The significance of following turning rules for traffic safety shall be communicated to the public through various channels, including official websites, informational materials, and driver education programs.
+
+### 12.08 Accessibility of Information:
+
+(a) Transparency: Information regarding turning regulations shall be easily accessible to the public, promoting awareness and compliance with state regulations.
+
+(b) Communication Channels: Relevant information shall be disseminated through official channels to ensure the widest possible reach and understanding among the driving population.
+
+## (8)13. Speed Limits
+
+### 13.01 Purpose:
+
+(a) Traffic Safety and Order: The Speed Limits section is established to regulate vehicle speeds, ensuring the safety of drivers and pedestrians, and maintaining order on roadways within the state of San Andreas.
+
+(b) Preventing Accidents: Adhering to posted speed limits helps prevent accidents, enhances traffic flow, and contributes to overall road safety.
+
+### 13.02 General Speed Limits:
+
+(a) Posted Speed Limits: Drivers must adhere to posted speed limits on roadways, as indicated by traffic signs, ensuring compliance with state regulations.
+
+(b) Variable Speed Limits: Variable speed limits, as indicated by electronic signs or other devices, must be followed by drivers to accommodate changing traffic and weather conditions.
+
+### 13.03 Speed Limit Ranges and Penalties:
+
+(a) Exceeding Speed Limits: The following penalties apply for exceeding posted speed limits:
+
+		(i) Up to 10 mph over the limit: Minimum fine of $50.
+		(ii) 11-20 mph over the limit: Minimum fine of $75.
+		(iii) 21-30 mph over the limit: Minimum fine of $100.
+		(iv) 31-40 mph over the limit: Minimum fine of $150.
+		(v) Over 40 mph over the limit: Minimum fine of $200, possible license suspension, and mandatory driving courses.
+		(vi) Criminal Speed: Any speeds double the posted speed limit will be a felony with 30 days in jail and a fine of $500.
+		
+(b) Reckless Driving Enhancement: Driving at speeds more than double the posted speed limit constitutes reckless driving, a felony offense, with penalties including fines, license suspension, or imprisonment as determined by the court.
+
+### 13.04 Construction and School Zones:
+
+(a) Reduced Speed Limits: Reduced speed limits in construction zones and school zones must be strictly adhered to, with increased penalties for violations.
+
+(b) Enhanced Penalties: Speeding violations in construction and school zones may result in enhanced fines and other penalties to ensure the safety of workers and children.
+
+### 13.05 Law Enforcement Authority:
+
+(a) Speed Enforcement: Law enforcement agencies are authorized to enforce speed limits and take appropriate action against violators.
+
+(b) Automated Enforcement: Speed violations captured by automated devices, including radar or camera systems, may result in citations and penalties for the registered owners of the vehicles involved.
+
+### 13.06 Education and Public Awareness:
+
+(a) Driver Education: Information on the importance of adhering to speed limits shall be included in driver education programs to promote awareness and understanding among new drivers.
+
+(b) Public Communication: The significance of following speed regulations for traffic safety shall be communicated to the public through various channels, including official websites, informational materials, and driver education programs.
+
+### 13.07 Accessibility of Information:
+
+(a) Transparency: Information regarding speed limits and associated penalties shall be easily accessible to the public, promoting awareness and compliance with state regulations.
+
+(b) Communication Channels: Relevant information shall be disseminated through official channels to ensure the widest possible reach and understanding among the driving population.
+
+## (8)14. Stop Signs
+
+### 14.01 Purpose:
+
+(a) Intersection Control: The Stop Signs section is established to regulate vehicle movement at intersections, promoting safe and orderly traffic flow within the state of San Andreas.
+
+(b) Preventing Collisions: Adherence to stop signs prevents collisions at intersections, ensuring the right of way is properly yielded and enhancing overall road safety.
+
+### 14.02 Stop Sign Compliance:
+
+(a) Full Stop Requirement: Drivers must come to a complete stop at stop signs, with the vehicle's tires halted before the designated stop line or, if no line is present, at the intersection itself.
+
+(b) Right of Way Yield: After coming to a full stop, drivers must yield the right of way to vehicles and pedestrians with the legal right to proceed through or across the intersection.
+
+### 14.03 Multi-Way Stops:
+
+(a) Four-Way Stops: At intersections with stop signs in all directions, the right of way is determined by the order in which vehicles come to a complete stop.
+
+(b) Equal Priority: When vehicles arrive at the same time, the vehicle on the right has the right of way. If uncertain, the driver should yield to the vehicle on the right.
+
+### 14.04 Penalty for Failure to Stop:
+
+(a) Violation Penalty: Failure to come to a complete stop at a stop sign may result in a minimum fine of $75, in addition to other legal consequences as determined by the court.
+
+(b) Reckless Driving Enhancement: Persistent or egregious violations of stop sign rules may lead to enhanced penalties, including but not limited to fines, license suspension, or mandatory driving courses.
+
+### 14.05 Enforcement and Accountability:
+
+(a) Law Enforcement Authority: Law enforcement agencies are authorized to enforce stop sign compliance and take appropriate action against violators.
+
+(b) Video and Photo Evidence: Violations captured by video or photo evidence, including traffic cameras, may be used for enforcement purposes, leading to citations and penalties for the registered owners of the vehicles involved.
+
+### 14.06 Education and Public Awareness:
+
+(a) Driver Education: Information on the importance of stopping at stop signs shall be included in driver education programs to promote awareness and understanding among new drivers.
+
+(b) Public Communication: The significance of obeying stop signs for traffic safety shall be communicated to the public through various channels, including official websites, informational materials, and driver education programs.
+
+### 14.07 Accessibility of Information:
+
+(a) Transparency: Information regarding stop sign rules shall be easily accessible to the public, promoting awareness and compliance with state regulations.
+
+(b) Communication Channels: Relevant information shall be disseminated through official channels to ensure the widest possible reach and understanding among the driving population.
+
+## (8)15. Parking
+
+### 15.01 Purpose:
+
+(a) Traffic Management: The Parking section is established to regulate the parking of vehicles, ensuring the efficient use of public spaces and maintaining order on roadways within the state of San Andreas.
+
+(b) Preventing Obstruction: Adherence to parking regulations prevents obstructions, enhances traffic flow, and contributes to overall road safety.
+
+### 15.02 General Parking Rules:
+
+(a) Designated Parking Areas: Vehicles must be parked in designated parking areas, including legal parking spaces, lots, or other areas explicitly marked for parking.
+
+(b) Prohibited Areas: Parking is prohibited in areas marked as no-parking zones, fire lanes, disabled spaces without proper permits, and other areas designated as off-limits for parking.
+
+### 15.03 Time-Limited Parking:
+
+(a) Parking Duration Limits: Time-limited parking areas, as indicated by signage, specify the maximum duration a vehicle may occupy the space.
+
+(b) Compliance with Time Limits: Drivers must adhere to posted time limits, moving their vehicles before the expiration of the allowed time to avoid penalties.
+
+### 15.04 Disabled Parking Spaces:
+
+(a) Reserved Spaces: Designated disabled parking spaces are reserved for vehicles with valid disability permits or license plates.
+
+(b) Penalties for Misuse: Unauthorized parking in disabled spaces may result in a minimum fine of $150, in addition to other legal consequences as determined by the court.
+
+### 15.05 Fire Lanes and Emergency Access:
+
+(a) Restricted Areas: Parking in fire lanes, emergency access zones, and other restricted areas is strictly prohibited to ensure unimpeded access for emergency vehicles.
+
+(b) Enforcement and Penalties: Violations in restricted areas may result in a minimum fine of $100, in addition to other legal consequences as determined by the court.
+
+### 15.06 Abandoned Vehicles:
+
+(a) Definition: Vehicles left unattended for an extended period, indicating abandonment, may be considered abandoned vehicles.
+
+(b) Towing and Impoundment: Abandoned vehicles may be towed and impounded at the owner's expense, with additional penalties for retrieval.
+
+### 15.07 Enforcement and Accountability:
+
+(a) Law Enforcement Authority: Law enforcement agencies and designated authorities are authorized to enforce parking regulations and take appropriate action against violators.
+
+(b) Ticketing and Towing: Violations may result in parking tickets, fines, or towing of the offending vehicle to ensure compliance with parking regulations.
+
+### 15.08 Education and Public Awareness:
+
+(a) Public Communication: Information on parking regulations and the importance of compliance shall be communicated to the public through various channels, including official websites, informational materials, and public service announcements.
+
+(b) Driver Education: Driver education programs shall include information on parking rules to promote awareness and understanding among new drivers.
+
+### 15.09 Accessibility of Information:
+
+(a) Transparency: Information regarding parking regulations shall be easily accessible to the public, promoting awareness and compliance with state regulations.
+
+(b) Communication Channels: Relevant information shall be disseminated through official channels to ensure the widest possible reach and understanding among the driving population.
+
+## (8)16. Reckless Driving
+
+### 16.01 Purpose:
+
+(a) Prevention of Hazardous Driving: The Reckless Driving section is established to deter and penalize actions that pose a significant risk to public safety, ensuring responsible and cautious driving within the state of San Andreas.
+
+(b) Protection of Lives and Property: Reckless driving violations threaten the well-being of drivers, passengers, and pedestrians, necessitating strict measures to prevent accidents and maintain road safety.
+
+### 16.02 Definition of Reckless Driving:
+
+(a) Reckless Conduct: Reckless driving is defined as the operation of a vehicle with willful or wanton disregard for the safety of persons or property, exhibiting a conscious indifference to the consequences of such actions.
+
+(b) Aggressive Driving Behaviors: Reckless driving includes but is not limited to excessive speeding, aggressive lane changes, tailgating, and other behaviors that endanger public safety.
+
+### 16.03 Penalties for Reckless Driving:
+
+(a) Misdemeanor Offense: Reckless driving is considered a misdemeanor offense and may result in a minimum fine of $200, license suspension for a specified period, and mandatory participation in a defensive driving course.
+
+(b) Enhanced Penalties: Subsequent or aggravated reckless driving offenses may lead to increased fines, longer license suspension, and mandatory completion of an advanced driver improvement program.
+
+### 16.04 Aggravated Reckless Driving:
+
+(a) Definition: Aggravated reckless driving involves actions that significantly heighten the risk of harm, such as racing on public roads, fleeing law enforcement, or engaging in dangerous stunts.
+
+(b) Felony Offense: Aggravated reckless driving is considered a felony offense, carrying more severe penalties, including higher fines, longer imprisonment, and extended license suspension.
+
+### 16.05 Enforcement and Accountability:
+
+(a) Law Enforcement Authority: Law enforcement agencies are authorized to enforce reckless driving laws and take appropriate action against violators.
+
+(b) Video and Photo Evidence: Reckless driving violations captured by video or photo evidence may be used for enforcement purposes, leading to citations and penalties for the registered owners of the vehicles involved.
+
+### 16.06 Education and Public Awareness:
+
+(a) Public Communication: Information on the dangers of reckless driving and the legal consequences shall be communicated to the public through various channels, including official websites, informational materials, and public service announcements.
+
+(b) Driver Education: Driver education programs shall include comprehensive information on the risks associated with reckless driving to promote awareness and understanding among new drivers.
+
+### 16.07 Accessibility of Information:
+
+(a) Transparency: Information regarding reckless driving laws and penalties shall be easily accessible to the public, promoting awareness and compliance with state regulations.
+
+(b) Communication Channels: Relevant information shall be disseminated through official channels to ensure the widest possible reach and understanding among the driving population.
+
+## (8)17. Motor Vehicle Contest
+
+### 17.01 Purpose:
+
+(a) Prohibition of Unsafe Competitions: The Motor Vehicle Contests section is established to prohibit and penalize organized or impromptu racing, exhibitions of speed, or contests involving motor vehicles within the state of San Andreas.
+
+(b) Preservation of Public Safety: Motor vehicle contests pose a significant risk to public safety, and this section aims to deter and penalize such activities to protect lives and property.
+
+### 17.02 Definition of Motor Vehicle Contests:
+
+(a) Prohibited Activities: Motor vehicle contests include but are not limited to organized or spontaneous races, exhibitions of speed, drag races, or any competitive driving activities on public roadways.
+
+(b) Exceptions: Officially sanctioned and permitted racing events conducted on designated race tracks or private facilities are exempt from this section.
+
+### 17.03 Penalties for Motor Vehicle Contests:
+
+(a) Misdemeanor Offense: Participation in or organizing motor vehicle contests is considered a misdemeanor offense and may result in a minimum fine of $300, license suspension, and mandatory participation in a driver safety program.
+
+(b) Enhanced Penalties: Subsequent or aggravated motor vehicle contest offenses may lead to increased fines, extended license suspension, and mandatory completion of an advanced driver improvement program.
+
+### 17.04 Aggravated Motor Vehicle Contest:
+
+(a) Definition: Aggravated motor vehicle contests involve actions that significantly increase the danger, such as contests on public roads that cause substantial harm, involve multiple vehicles, or lead to property damage.
+
+(b) Felony Offense: Aggravated motor vehicle contests are considered felony offenses, carrying more severe penalties, including higher fines, longer imprisonment, and extended license suspension.
+
+### 17.05 Enforcement and Accountability:
+
+(a) Law Enforcement Authority: Law enforcement agencies are authorized to enforce motor vehicle contest laws and take appropriate action against participants and organizers.
+
+(b) Seizure of Vehicles: Vehicles used in violation of this section may be subject to seizure and impoundment at the owner's expense.
+
+### 17.06 Education and Public Awareness:
+
+(a) Public Communication: Information on the risks associated with motor vehicle contests and the legal consequences shall be communicated to the public through various channels, including official websites, informational materials, and public service announcements.
+
+(b) Driver Education: Driver education programs shall include comprehensive information on the dangers of motor vehicle contests to promote awareness and understanding among new drivers.
+
+### 17.07 Accessibility of Information:
+
+(a) Transparency: Information regarding motor vehicle contest laws and penalties shall be easily accessible to the public, promoting awareness and compliance with state regulations.
+
+(b) Communication Channels: Relevant information shall be disseminated through official channels to ensure the widest possible reach and understanding among the driving population.
+
+## (8)18. Throwing Objects
+
+### 18.01 Purpose:
+
+(a) Prevention of Hazards: The Throwing Objects from Vehicles section is established to prohibit and penalize the act of throwing objects from moving vehicles within the state of San Andreas, ensuring public safety and preventing hazards on roadways.
+
+(b) Protection of Persons and Property: Objects thrown from vehicles pose a risk to other drivers, pedestrians, and property, necessitating strict measures to deter such actions and maintain road safety.
+
+### 18.02 Prohibition of Throwing Objects:
+
+(a) General Prohibition: It is prohibited to throw, drop, or discharge any object or substance from a moving vehicle onto public roadways, sidewalks, or other areas accessible to the public.
+
+(b) Exclusions: This section does not apply to objects discharged in accordance with lawful activities, such as agricultural practices or waste disposal in designated areas.
+
+### 18.03 Penalties for Throwing Objects:
+
+(a) Violation Penalty: Throwing objects from a vehicle is considered a misdemeanor offense and may result in a minimum fine of $100, community service, and mandatory participation in an anti-litter program.
+
+(b) Enhanced Penalties: Subsequent violations or actions causing substantial harm may lead to increased fines, additional community service hours, and mandatory completion of an environmental awareness program.
+
+### 18.04 Enforcement and Accountability:
+
+(a) Law Enforcement Authority: Law enforcement agencies are authorized to enforce laws related to throwing objects from vehicles and take appropriate action against violators.
+
+(b) Identification of Offenders: Identifying the individuals responsible for throwing objects may be facilitated through eyewitness accounts, video evidence, or other means.
+
+### 18.05 Education and Public Awareness:
+
+(a) Public Communication: Information on the dangers of throwing objects from vehicles and the legal consequences shall be communicated to the public through various channels, including official websites, informational materials, and public service announcements.
+
+(b) Driver Education: Driver education programs shall include information on the risks and legal implications of throwing objects from vehicles to promote awareness and understanding among new drivers.
+
+### 18.06 Accessibility of Information:
+
+(a) Transparency: Information regarding the prohibition of throwing objects from vehicles and associated penalties shall be easily accessible to the public, promoting awareness and compliance with state regulations.
+
+(b) Communication Channels: Relevant information shall be disseminated through official channels to ensure the widest possible reach and understanding among the driving population.
+
+## (8)19. Operating while Intoxicated
+
+### 19.01 Purpose:
+
+(a) Prevention of Impaired Driving: The Operating While Intoxicated (OWI) section is established to prohibit and penalize the operation of vehicles by individuals under the influence of alcohol or controlled substances within the state of San Andreas, promoting road safety and preventing impaired driving.
+
+(b) Protection of Lives and Property: Impaired driving poses a severe risk to public safety, and this section aims to deter and penalize OWI to safeguard the lives of drivers, passengers, and pedestrians.
+
+### 19.02 Definition of OWI:
+
+(a) Impaired Driving: OWI is defined as operating a vehicle while under the influence of alcohol, controlled substances, or any combination thereof to the extent that normal faculties are impaired.
+
+(b) Blood Alcohol Concentration (BAC) Limit: OWI also includes operating a vehicle with a blood alcohol concentration equal to or exceeding the legal limit established by state law.
+
+### 19.03 Penalties for OWI:
+
+(a) First Offense: The penalties for a first OWI offense may include a minimum fine of $500, license suspension for a specified period, mandatory attendance in a substance abuse education program, and community service.
+
+(b) Second or Subsequent Offenses: Subsequent OWI offenses may result in increased fines, longer license suspension, mandatory completion of a substance abuse treatment program, and possible imprisonment.
+
+### 19.04 Enhanced OWI Offenses:
+
+(a) Definition: Enhanced OWI involves committing another offense while operating a vehicle under the influence of alcohol or controlled substances.
+
+(b) Penalties for Enhanced OWI:
+
+		(i) Minimum Fine: $1,000
+		(ii) License Suspension: Double the period of suspension for a standard OWI offense.
+		(iii) Mandatory Substance Abuse Treatment: Extended program duration.
+		(iv) Possible Imprisonment: Minimum sentence of 30 days, with an increased sentence based on the severity of the additional offense
+
+### 19.05 Enforcement and Accountability:
+
+(a) Law Enforcement Authority: Law enforcement agencies are authorized to enforce OWI laws and take appropriate action against violators.
+
+(b) Blood Alcohol Testing: Suspected OWI offenders may be subjected to blood alcohol testing to determine their level of impairment and aid in legal proceedings.
+
+### 19.06 Education and Public Awareness:
+
+(a) Public Communication: Information on the dangers of operating a vehicle while intoxicated and the legal consequences of OWI shall be communicated to the public through various channels, including official websites, informational materials, and public service announcements.
+
+(b) Driver Education: Driver education programs shall include comprehensive information on the risks associated with OWI to promote awareness and understanding among new drivers.
+
+### 19.07 Accessibility of Information:
+
+(a) Transparency: Information regarding OWI laws and penalties shall be easily accessible to the public, promoting awareness and compliance with state regulations.
+
+(b) Communication Channels: Relevant information shall be disseminated through official channels to ensure the widest possible reach and understanding among the driving population.
+
+## (8)20. Open Alcoholic Beverages in Motor Vehicles
+
+### 20.01 Purpose:
+
+(a) Prevention of Impaired Driving: The Open Alcoholic Beverages in Motor Vehicles section is established to prohibit and penalize the presence of open alcoholic beverage containers in the passenger area of motor vehicles within the state of San Andreas, promoting responsible consumption and preventing impaired driving.
+
+(b) Preservation of Public Safety: Open alcoholic beverage containers in vehicles pose a risk to public safety, and this section aims to deter such practices to safeguard the lives of drivers, passengers, and pedestrians.
+
+### 20.02 Prohibition of Open Alcoholic Containers:
+
+(a) General Prohibition: It is prohibited to possess, consume, or transport any open alcoholic beverage container in the passenger area of a motor vehicle on public roadways.
+
+(b) Exceptions: This section does not apply to passengers in commercially operated vehicles for hire that have a designated passenger area separate from the driver's compartment.
+
+### 20.03 Penalties for Open Alcoholic Containers:
+
+(a) Violation Penalty: Possessing or consuming an open alcoholic beverage in a motor vehicle is considered a misdemeanor offense and may result in a minimum fine of $150.
+
+(b) Additional Penalties: Subsequent violations may lead to increased fines, mandatory attendance in an alcohol education program, and community service.
+
+### 20.04 Enforcement and Accountability:
+
+(a) Law Enforcement Authority: Law enforcement agencies are authorized to enforce open alcoholic container laws and take appropriate action against violators.
+
+(b) Identification of Offenders: Identifying individuals in possession of open alcoholic containers may be facilitated through routine traffic stops, checkpoints, or other lawful means.
+
+### 20.05 Education and Public Awareness:
+
+(a) Public Communication: Information on the legal restrictions regarding open alcoholic containers in motor vehicles shall be communicated to the public through various channels, including official websites, informational materials, and public service announcements.
+
+(b) Driver Education: Driver education programs shall include information on the risks associated with open alcoholic containers in vehicles to promote awareness and understanding among new drivers.
+
+### 20.06 Accessibility of Information:
+
+(a) Transparency: Information regarding open alcoholic container laws and penalties shall be easily accessible to the public, promoting awareness and compliance with state regulations.
+
+(b) Communication Channels: Relevant information shall be disseminated through official channels to ensure the widest possible reach and understanding among the driving population.
+
+## (8)21. Evading A Peace Officer
+
+### 21.01 Purpose:
+
+(a) Prevention of Evasive Actions: The Evading a Peace Officer section is established to prohibit and penalize attempts to elude law enforcement within the state of San Andreas, ensuring public safety and preserving the authority of law enforcement officers.
+
+(b) Safeguarding Public Safety: Evading a peace officer poses a significant risk to public safety, and this section aims to deter such actions to protect lives, property, and the well-being of both law enforcement and the public.
+
+### 21.02 Definition of Evading a Peace Officer:
+
+(a) Prohibited Actions: Evading a peace officer includes any willful attempt to flee or elude a law enforcement vehicle with activated lights and sirens indicating the need for the driver to stop.
+
+(b) Reckless Driving Element: Evading a peace officer involves driving in a manner that exhibits a willful or wanton disregard for the safety of persons or property.
+
+### 21.03 Penalties for Evading a Peace Officer:
+
+(a) Misdemeanor Offense: Evading a peace officer is considered a misdemeanor offense and may result in a minimum fine of $500, license suspension, mandatory participation in a defensive driving course, and a jail sentence of up to 90 days.
+
+(b) Felony Evading: Felony evading involves committing a violent misdemeanor or felony during the commission of evading a peace officer. Penalties for felony evading include a minimum fine of $1,000, extended license suspension, mandatory participation in an advanced driver improvement program, and a jail sentence of up to one year.
+
+### 21.04 Enforcement and Accountability:
+
+(a) Law Enforcement Authority: Law enforcement agencies are authorized to enforce evading a peace officer laws and take appropriate action against violators.
+
+(b) Enhanced Penalties for Felony Evading: Felony evading offenses may be subject to enhanced penalties based on the severity of the additional crime committed during the commission of the offense.
+
+### 21.05 Education and Public Awareness:
+
+(a) Public Communication: Information on the legal consequences of evading a peace officer and the potential for enhanced penalties in the presence of additional crimes shall be communicated to the public through various channels, including official websites, informational materials, and public service announcements.
+
+(b) Driver Education: Driver education programs shall include information on the risks associated with evading a peace officer to promote awareness and understanding among new drivers.
+
+### 21.06 Accessibility of Information:
+
+(a) Transparency: Information regarding evading a peace officer laws and penalties shall be easily accessible to the public, promoting awareness and compliance with state regulations.
+
+(b) Communication Channels: Relevant information shall be disseminated through official channels to ensure the widest possible reach and understanding among the driving population.
+
+## (8)22. Vehicle Equipment
+
+### 22.01 Operational Equipment Requirements:
+
+(a) Headlights: All motor vehicles operated on a road must be equipped with two headlights. Exceptions include motorcycles and golf carts, which may have only one headlight. Headlights must be operated during darkness and/or inclement weather. The use of high beams is prohibited within 500 feet of an oncoming vehicle or within 300 feet behind a vehicle traveling in the same direction.
+
+(b) Taillights and Stop Lights: Vehicles must have two red taillights, operated during darkness and/or inclement weather. Two red stop lights are also required, which may be combined with taillights. Stop lights must operate when the brake pedal is pressed.
+
+(c) Turn Signals: Four turn signals are required, except for vehicles using hand signals, excluding commercial motor vehicles.
+
+(d) White Backup Light: One white backup light is required and must operate when the vehicle is moving in reverse.
+
+(e) Windshield: All motor vehicles, except motorcycles, must be equipped with a windshield.
+
+(f) Rear View Mirrors: Two rear-view mirrors are required, with one positioned on the left side of the car in view of the driver. Motorcycles are only required to have one rear-view mirror.
+
+(g) Horn: Horns may only be used when reasonably necessary for safe operation.
+
+(h) Tires: Tires must be rubber in nature, and no metal may contact the road surface.
+
+(i) Fenders/Body Panels: Vehicles must have fenders or body panels at least as wide as the tire tread. Motorcycles are exempt from this requirement.
+
+(j) Helmet Requirement for Motorcycles: Riders of motorcycles must wear a helmet. Golf carts are exempt from this requirement.
+
+(k) Front and Rear Bumpers: All vehicles, except motorcycles, must be equipped with front and rear bumpers.
+
+(l) Brakes: All vehicles must be equipped with brakes.
+
+(m) Cargo and Passenger Securement: All cargo and passengers must be secure and located in a designated area.
+
+### 22.02 Prohibited Equipment:
+
+(a) Flashing Lights: Vehicles, except emergency, construction, utility, and tow trucks, are prohibited from having flashing lights. Volunteer firefighters responding to an emergency can display a flashing blue light.
+
+(b) Blue or Red Lights: Any blue or red lights visible from the front or side of the vehicle are prohibited, except for emergency vehicles. Volunteer firefighters responding to an emergency can display a flashing blue light.
+
+(c) Markings Matching Emergency Vehicles: Vehicles are prohibited from having any markings that match emergency vehicles, except for emergency vehicles.
+
+(d) Sirens: Sirens are prohibited on all vehicles, except emergency vehicles.
+
+(e) Aftermarket Hydraulic Equipment: Aftermarket hydraulic equipment that changes the height ride of any portion of the car, either temporarily or permanently, is prohibited on roads.
+
+(f) Armor: Except for approved armored cars, armor is prohibited on all vehicles.
+
+(g) Liquid or Smoke Emission: Vehicles are prohibited from expelling any liquid (except water) or smoke onto the road surface.
+
+### 22.03 Penalties for Violations:
+
+(a) Infraction Penalty: Violation of any of the equipment requirements specified in Section 22 shall be considered an infraction and may result in a fine of $150.
+
+(b) Additional Violating Factors: In the case of multiple violations, each different violating factor beyond the fifth shall incur an additional fine of $25.
+
+(c) Cumulative Penalties: The total fine for multiple violations shall be the sum of the base infraction penalty and any additional fines for violating factors beyond the fifth.
+
+(d) Payment Period: Fines must be paid within 30 days of the violation date. Failure to pay within the specified period may result in additional penalties, including increased fines and potential legal action.
+
+## (8)23. Maximum Vehicle Size and Weight
+
+### 23.01 Size and Weight Limitations:
+
+(a) Maximum Width: All motor vehicles shall comply with a maximum width of 102 inches.
+
+(b) Maximum Length: All motor vehicles shall comply with a maximum length of 65 feet.
+
+(c) Maximum Weight: All motor vehicles shall comply with a maximum weight of 80,000 pounds.
+
+(d) Maximum Weight Per Axle:
+
+		(i) Steer Axles: 12,000 pounds
+		(ii) Drive Axles: 14,000 pounds
+		(iii) Trailer Axles: 14,000 pounds
+
+### 23.02 Exemptions:
+
+(a) Standard Combinations: Vehicles that are part of a standard combination of truck and trailer, such as a semi-truck and trailer or a bus, are exempt from the size and weight limitations.
+
+(b) Towing Disabled Vehicles: Vehicles being used to tow another vehicle that is unable to be safely operated to a location where repairs can be made are exempt from the size and weight limitations.
+
+(c) Permits: Vehicles for which a permit has been issued by the Department of Transportation are exempt from the size and weight limitations.
+
+### 23.03 Enforcement and Penalties:
+
+(a) Compliance Checks: Law enforcement agencies may conduct routine checks to ensure compliance with size and weight limitations.
+
+(b) Penalties for Non-Compliance: Violation of the size and weight limitations specified in Section 23 may result in penalties, including fines and potential impoundment of the non-compliant vehicle.
+
+(c) Permit Violations: Violations of the size and weight limitations by vehicles with permits issued by the Department of Transportation may result in permit revocation and additional penalties.
+
+(d) Reporting Violations: Citizens are encouraged to report suspected violations of size and weight limitations to law enforcement authorities.
+
+## (8)24. Implied Consent
+
+### 24.01 Consent to Standardized Field Sobriety Testing:
+
+(a) General Consent: Any resident of San Andreas who has applied for a driver's license gives consent to submit to standardized field sobriety testing to determine impairment.
+
+(b) Refusal Consequences: If a driver refuses testing, and a sworn law enforcement officer has reasonable suspicion to charge offenses related to impaired driving, the driver may face the following consequences:
+
+		(i) An additional misdemeanor jail sentence of 60 seconds.
+		(ii) An additional fine of $1,000.
+		(iii) An additional 7 days of license suspension.
+	
+(c) Reasonable Suspicion: This provision applies only when there is reasonable suspicion to charge offenses related to impaired driving (codes (8)26 or (8)27). Drivers who do not give reasonable suspicion for these offenses cannot be charged under this provision.
+
+### 24.02 Enforcement and Penalties:
+
+(a) Sworn Law Enforcement Officers: Only sworn law enforcement officers are authorized to administer and interpret standardized field sobriety tests.
+
+(b) Reporting Violations: Law enforcement officers shall report instances of refusal to submit to testing and any associated charges promptly.
+
+(c) Legal Reference: Charges mentioned in this section are for descriptive purposes only and do not reference specific legal codes. Drivers may be charged with any applicable offenses related to impaired driving.
+
+(d) Due Process: Drivers have the right to legal representation and due process when facing charges related to refusal of sobriety testing.

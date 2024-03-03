@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Graphicus Roleplay Laws</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <div id="sidebar">
+        <img src="images/stateseal.png" alt="State Seal">
+        <h2>San Andreas Laws</h2>
+        <p id="lastUpdated">Last Updated: <span id="lastUpdatedText"></span></p>
+        <!-- Removed buttons for Page 1, Page 2, and Page 3 -->
+        <!-- <button onclick="loadPage('page1.html')">Page 1</button>
+        <button onclick="loadPage('page2.html')">Page 2</button>
+        <button onclick="loadPage('page3.html')">Page 3</button> -->
+        <!-- Additional buttons -->
+        <button onclick="loadPage('revised-code/title1.html')">Title 1</button>
+        <button onclick="loadPage('revised-code/title2.html')">Title 2</button>
+        <button onclick="loadPage('revised-code/title3.html')">Title 3</button>
+        <button onclick="loadPage('revised-code/title4.html')">Title 4</button>
+        <button onclick="loadPage('revised-code/title5.html')">Title 5</button>
+        <button onclick="loadPage('revised-code/title6.html')">Title 6</button>
+        <button onclick="loadPage('revised-code/title7.html')">Title 7</button>
+        <button onclick="loadPage('revised-code/title8.html')">Title 8</button>
+        <button onclick="loadPage('revised-code/title9.html')">Title 9</button>
+        <button onclick="loadPage('revised-code/title10.html')">Title 10</button>
+        <button onclick="loadPage('revised-code/title11.html')">Title 11</button>
+        <button onclick="loadPage('revised-code/title12.html')">Title 12</button>
+        <button onclick="loadPage('revised-code/title13.html')">Title 13</button>
+        <button onclick="loadPage('revised-code/title14.html')">Title 14</button>
+        <button onclick="loadPage('revised-code/title15.html')">Title 15</button>
+        <button onclick="loadPage('revised-code/title16.html')">Title 16</button>
+        <button onclick="loadPage('revised-code/title17.html')">Title 17</button>
+        <button onclick="loadPage('revised-code/changelog.html')">Changelog</button>
+    </div>
+        <div id="tableOfContents"></div>
+        <div id="copyLinkButton" style="position: fixed; top: 10px; right: 10px; display: none;">
+            <button onclick="copyLink()">Copy Link</button>
+        </div>
+    <div id="content">
+        <!-- Table of Contents will be displayed here -->
+
+        <!-- Content will be loaded here -->
+
+    </div>
+
+    <script>
+        function loadPage(page) {
+            var xhttp = new XMLHttpRequest();
+            xhttp.onreadystatechange = function () {
+                if (this.readyState == 4 && this.status == 200) {
+                    document.getElementById("content").innerHTML = this.responseText;
+                    updateTableOfContents(); // Call updateTableOfContents after content is loaded
+                    showCopyLinkButton(page); // Show the "Copy Link" button
+                    clearFileParameter(); // Clear the 'file' parameter from the URL
+                }
+            };
+            xhttp.open("GET", page, true);
+            xhttp.send();
+        }
+
+        // Fetch and display the last updated date
+        function updateLastUpdated() {
+            var lastUpdatedElement = document.getElementById("lastUpdatedText");
+            var lastUpdatedRequest = new XMLHttpRequest();
+            lastUpdatedRequest.onreadystatechange = function () {
+                if (this.readyState == 4 && this.status == 200) {
+                    lastUpdatedElement.textContent = this.responseText;
+                }
+            };
+            lastUpdatedRequest.open("GET", "/lastUpdated", true);
+            lastUpdatedRequest.send();
+        }
+
+        // Generate and display the Table of Contents
+        function updateTableOfContents() {
+            var contentElement = document.getElementById("content");
+            var tableOfContentsElement = document.getElementById("tableOfContents");
+
+            // Extract headings (assumes headings are h1 to h6)
+            var headings = contentElement.querySelectorAll("h2");
+
+            // Create and populate the table of contents
+            var tocHtml = "<h2>Table of Contents</h2><ul>";
+            headings.forEach(function (heading) {
+                var headingText = heading.textContent;
+                var headingId = heading.id;
+                tocHtml += "<li><a href='#" + headingId + "'>" + headingText + "</a></li>";
+            });
+            tocHtml += "</ul>";
+
+            // Update the table of contents element
+            tableOfContentsElement.innerHTML = tocHtml;
+        }
+
+        // Show the "Copy Link" button when there is content
+        function showCopyLinkButton(filePath) {
+            var copyLinkButton = document.getElementById("copyLinkButton");
+            if (filePath) {
+                copyLinkButton.style.display = "block";
+                var copyButton = copyLinkButton.querySelector("button");
+                copyButton.dataset.filePath = filePath; // Store file path in a data attribute
+            } else {
+                copyLinkButton.style.display = "none";
+            }
+        }
+
+        // Clear the 'file' parameter from the URL
+        function clearFileParameter() {
+            var newUrl = window.location.protocol + "//" + window.location.host + window.location.pathname;
+            window.history.replaceState({}, document.title, newUrl);
+        }
+
+        // Copy the link to the clipboard
+        function copyLink() {
+            var copyButton = document.getElementById("copyLinkButton").querySelector("button");
+            var filePath = copyButton.dataset.filePath;
+            var link = window.location.origin + "/?file=" + filePath;
+
+            // Create a temporary input element to copy the link
+            var tempInput = document.createElement("input");
+            tempInput.value = link;
+            document.body.appendChild(tempInput);
+            tempInput.select();
+            document.execCommand("copy");
+            document.body.removeChild(tempInput);
+
+            alert("Link copied to clipboard: " + link);
+        }
+
+        // Initial update when the page loads
+        updateLastUpdated();
+
+        // Check for the 'file' query parameter in the URL
+        var urlParams = new URLSearchParams(window.location.search);
+        var fileParam = urlParams.get('file');
+        if (fileParam) {
+            // If 'file' parameter is present, load the specified file
+            loadPage(fileParam);
+        }
+    </script>
+
+</body>
+</html>

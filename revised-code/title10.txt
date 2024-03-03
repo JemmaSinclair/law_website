@@ -1,0 +1,514 @@
+# TITLE 10. Commercial Vehicles
+
+## (10)01. Licensing
+
+### 1.01 Commercial Driver's License (CDL) Requirements:
+
+(a) General Requirements: Individuals operating commercial vehicles must obtain a Commercial Driver's License (CDL) issued by the appropriate licensing authority.
+
+(b) Age Requirement: The minimum age for obtaining a CDL is 21 years, or 18 years for individuals operating within the state and not engaging in interstate commerce.
+
+(c) Endorsements: Additional endorsements may be required for certain types of commercial vehicles, such as hazardous materials or passenger transport.
+
+### 1.02 Application Process:
+
+(a) Written Examination: Applicants must pass a written examination covering the rules and regulations governing the operation of commercial vehicles.
+
+(b) Skills Test: A skills test, including a pre-trip inspection, basic vehicle control, and on-road driving, is required for CDL issuance.
+
+(c) Medical Examination: Applicants must undergo a medical examination to ensure they meet the physical requirements for operating a commercial vehicle.
+
+### 1.03 License Renewal:
+
+(a) Renewal Period: CDLs must be renewed every four years.
+
+(b) Continuing Education: Renewal may require additional training or continuing education, as determined by the licensing authority.
+
+### 1.04 Penalties:
+
+(a) Minimum Penalty: Violation of CDL requirements may result in a minimum penalty of $500 and a 30-day license suspension.
+
+(b) Repeat Offenses: Repeat offenses may result in escalating penalties, including increased fines and extended license suspension.
+
+### 1.05 Reporting Violations:
+
+(a) Duty to Report: Commercial drivers are obligated to report any violations of licensing requirements to the appropriate licensing authority.
+
+(b) Reporting Period: Reports must be submitted within 15 days of the occurrence of the violation.
+
+### 1.06 Enforcement and Due Process:
+
+(a) Law Enforcement Authority: Law enforcement officers are authorized to enforce licensing requirements for commercial vehicles.
+
+(b) Due Process: Individuals facing penalties have the right to contest charges, seek legal representation, and undergo due process.
+
+## (10)02. Vehicle Inspections and Maintenance
+
+### 2.01 Pre-Trip Inspections:
+
+(a) Requirement: Drivers of commercial vehicles must perform a pre-trip inspection before beginning a journey.
+
+(b) Components to Inspect: The inspection must include, but is not limited to, the examination of brakes, tires, lights, signals, and other essential components.
+
+(c) Documentation: Results of the pre-trip inspection, including any defects found and corrective actions taken, must be documented in a log or electronic record.
+
+### 2.02 Post-Trip Inspections:
+
+(a) Requirement: Drivers must conduct a post-trip inspection at the end of each journey.
+
+(b) Inspection Depth: Similar to the pre-trip inspection, the post-trip inspection should cover essential components, with a focus on identifying and addressing any issues that may have arisen during the journey.
+
+(c) Documentation: Results of the post-trip inspection, including any defects found and actions taken, must be documented.
+
+### 2.03 Regular Maintenance Schedule:
+
+(a) Requirement: Commercial vehicles must adhere to a regular maintenance schedule as recommended by the manufacturer.
+
+(b) Maintenance Records: Records of all maintenance activities, including dates and details of services performed, must be kept and made available upon request.
+
+### 2.04 Penalties:
+
+(a) Minimum Penalty: Failure to conduct pre-trip or post-trip inspections may result in a minimum penalty of $250 and a suspension of driving privileges for 15 days.
+
+(b) Failure to Adhere to Maintenance Schedule: Neglecting regular maintenance may result in a minimum penalty of $500 and a suspension of driving privileges for 30 days.
+
+(c) Repeat Offenses: Repeat offenses may lead to escalating penalties, including increased fines and extended license suspension.
+
+### 2.05 Reporting Violations:
+
+(a) Duty to Report: Drivers must promptly report any identified defects or maintenance issues to their fleet manager or maintenance personnel.
+
+(b) Reporting Period: Reports must be submitted within 24 hours of the discovery of any defects or maintenance issues.
+
+### 2.06 Enforcement and Due Process:
+
+(a) Law Enforcement Authority: Law enforcement officers are authorized to enforce vehicle inspection and maintenance requirements for commercial vehicles.
+
+(b) Due Process: Individuals facing penalties have the right to contest charges, seek legal representation, and undergo due process.
+
+## (10)03. Weight Limits and Load Restrictions
+
+### 3.01 Gross Vehicle Weight (GVW) Limits:
+
+(a) Single Axle Limit: The maximum GVW allowed on a single axle is 20,000 pounds.
+
+(b) Tandem Axle Limit: The maximum GVW allowed on a tandem axle is 34,000 pounds.
+
+(c) Gross Vehicle Weight Rating (GVWR): The GVWR of a commercial vehicle, including its cargo, must not exceed 80,000 pounds.
+
+### 3.02 Load Distribution Requirements:
+
+(a) Even Distribution: Cargo must be evenly distributed to ensure proper weight balance across all axles.
+
+(b) Axle Weight Limits: No single axle should bear a weight greater than its designated limit, as specified in 3.01(a) and 3.01(b).
+
+### 3.03 Load Securement:
+
+(a) Requirement: All cargo must be properly secured to prevent shifting or falling during transit.
+
+(b) Penalties: Failure to secure cargo properly may result in a minimum penalty of $500 and a suspension of driving privileges for 15 days.
+
+### 3.04 Enforcement and Penalties:
+
+(a) Maximum GVW Exceedance: Exceeding the maximum GVW limit may result in a minimum penalty of $1,000 and a suspension of driving privileges for 30 days.
+
+(b) Repeat Offenses: Repeat offenses may lead to escalating penalties, including increased fines and extended license suspension.
+
+(c) Load Distribution Violations: Violations related to uneven load distribution or exceeding axle weight limits may result in penalties as specified in 3.04(a) and 3.04(b).
+
+### 3.05 Reporting Violations:
+
+(a) Duty to Report: Drivers must promptly report any load distribution or weight limit violations to their fleet manager or relevant authorities.
+
+(b) Reporting Period: Reports must be submitted within 24 hours of the occurrence of the violation.
+
+### 3.06 Due Process:
+
+(a) Right to Contest: Individuals facing penalties have the right to contest charges, seek legal representation, and undergo due process.
+
+(b) Hearings: Drivers have the right to request a hearing to present evidence or arguments related to weight limit or load distribution violations.
+
+## (10)04. Hours of Service for Drivers
+
+### 4.01 Daily Driving Limits:
+
+(a) Maximum Driving Time: Drivers may not operate a commercial vehicle for more than 11 hours in a consecutive 24-hour period.
+
+(b) Rest Breaks: Drivers must take a minimum 30-minute break after every 8 hours of driving.
+
+### 4.02 Daily On-Duty Limit:
+
+(a) Maximum On-Duty Time: Drivers may not remain on duty (including non-driving tasks) for more than 14 consecutive hours.
+
+(b) Required Off-Duty Period: Following the 14-hour on-duty period, drivers must have a minimum of 10 consecutive hours off duty.
+
+### 4.03 Weekly Driving Limits:
+
+(a) Maximum Weekly Driving Time: Drivers may not exceed 60 hours on duty in a 7-day period or 70 hours in an 8-day period.
+
+(b) Restart Provision: A driver may restart their 7 or 8-day workweek after taking at least 34 consecutive hours off duty.
+
+### 4.04 Electronic Logging Device (ELD) Requirement:
+
+(a) Mandatory Usage: All commercial vehicles must be equipped with an ELD to accurately record driving hours.
+
+(b) Penalties for Non-Compliance: Failure to use an ELD as required may result in a minimum penalty of $1,000 and a suspension of driving privileges for 30 days.
+
+### 4.05 Reporting Violations:
+
+(a) Duty to Report: Drivers must promptly report any violations of hours of service regulations to their fleet manager or relevant authorities.
+
+(b) Reporting Period: Reports must be submitted within 24 hours of the occurrence of the violation.
+
+### 4.06 Enforcement and Penalties:
+
+(a) Maximum Hour Violations: Exceeding the maximum hour limits may result in a minimum penalty of $500 and a suspension of driving privileges for 15 days.
+
+(b) Repeat Offenses: Repeat offenses may lead to escalating penalties, including increased fines and extended license suspension.
+
+(c) ELD Violations: Violations related to the improper use or absence of an ELD may result in penalties as specified in 4.06(a) and 4.06(b).
+
+### 4.07 Due Process:
+
+(a) Right to Contest: Individuals facing penalties have the right to contest charges, seek legal representation, and undergo due process.
+
+(b) Hearings: Drivers have the right to request a hearing to present evidence or arguments related to hours of service violations.
+
+## (10)05. Drug and Alcohol Testing for Drivers
+
+### 5.01 Pre-Employment Testing:
+
+(a) Requirement: Prospective commercial drivers must undergo drug and alcohol testing before being employed by a commercial carrier.
+
+(b) Positive Test Results: A positive test result for controlled substances or alcohol may disqualify an individual from employment.
+
+### 5.02 Random Testing:
+
+(a) Frequency: Employers are required to conduct random drug and alcohol tests on a percentage of their driver workforce each year.
+
+(b) Consequences of Positive Tests: Positive random test results may lead to immediate suspension and further disciplinary actions.
+
+### 5.03 Post-Accident Testing:
+
+(a) Requirement: Drivers involved in accidents resulting in fatalities, injuries, or significant property damage must undergo drug and alcohol testing.
+
+(b) Timely Testing: Testing should be conducted as soon as practicable after the accident.
+
+### 5.04 Reasonable Suspicion Testing:
+
+(a) Basis for Testing: Employers may require drug and alcohol testing if there is reasonable suspicion that a driver is under the influence.
+
+(b) Documentation of Suspicion: Employers must document observations leading to reasonable suspicion.
+
+### 5.05 Return-to-Duty Testing:
+
+(a) Requirement: Drivers who have tested positive or violated drug and alcohol policies must undergo testing before returning to duty.
+
+(b) Follow-Up Testing: Drivers may be subject to follow-up testing as directed by a Substance Abuse Professional.
+
+### 5.06 Refusal to Test:
+
+(a) Consequences: Refusing to submit to a required drug or alcohol test may result in immediate suspension and other disciplinary actions.
+
+(b) Reporting Obligation: Employers must report instances of refusal to the relevant authorities.
+
+### 5.07 Reporting Violations:
+
+(a) Duty to Report: Drivers and employers must promptly report any violations of drug and alcohol testing regulations to the appropriate authorities.
+
+(b) Reporting Period: Reports must be submitted within 24 hours of the occurrence of the violation.
+
+### 5.08 Enforcement and Penalties:
+
+(a) Positive Test Results: Positive test results may result in a minimum penalty of $1,000 and a suspension of driving privileges for 60 days.
+
+(b) Repeat Offenses: Repeat offenses may lead to escalating penalties, including increased fines and extended license suspension.
+
+(c) Refusal to Test: Refusal to submit to required testing may result in a minimum penalty of $2,500 and a suspension of driving privileges for 90 days.
+
+### 5.09 Due Process:
+
+(a) Right to Contest: Individuals facing penalties have the right to contest charges, seek legal representation, and undergo due process.
+
+(b) Hearings: Drivers have the right to request a hearing to present evidence or arguments related to drug and alcohol testing violations.
+
+## (10)06. Hazardous Materials Transportation
+
+### 6.01 Hazardous Materials Endorsement:
+
+(a) Requirement: Drivers transporting hazardous materials must obtain a Hazardous Materials (HazMat) endorsement on their Commercial Driver's License (CDL).
+
+(b) Background Check: A comprehensive background check, including criminal history and immigration status, is required for obtaining a HazMat endorsement.
+
+### 6.02 Security Plan:
+
+(a) Requirement: Carriers transporting hazardous materials must develop and implement a security plan to safeguard against theft, diversion, or sabotage.
+
+(b) Compliance with Regulations: Security plans must adhere to federal and state regulations governing the transportation of hazardous materials.
+
+### 6.03 Specialized Training:
+
+(a) Mandatory Training: Drivers transporting hazardous materials must undergo specialized training to ensure they are aware of the risks and safety protocols.
+
+(b) Periodic Training: Ongoing training is required to keep drivers updated on changes in regulations and best practices.
+
+### 6.04 Emergency Response:
+
+(a) Emergency Preparedness: Drivers must be equipped and trained to respond to emergencies involving hazardous materials, including spills or leaks.
+
+(b) Reporting Requirements: Immediate reporting of any incidents or accidents involving hazardous materials is mandatory.
+
+### 6.05 Marking and Labeling:
+
+(a) Proper Marking: Vehicles transporting hazardous materials must display appropriate markings, labels, and placards as specified by regulations.
+
+(b) Verification of Compliance: Law enforcement may conduct inspections to ensure proper marking and labeling of vehicles.
+
+### 6.06 Loading and Unloading Procedures:
+
+(a) Safety Protocols: Carriers must establish and enforce safe procedures for the loading and unloading of hazardous materials.
+
+(b) Compliance Checks: Periodic checks and audits may be conducted to verify compliance with loading and unloading protocols.
+
+### 6.07 Penalties for Violations:
+
+(a) Minimum Penalty: Violations of hazardous materials transportation regulations may result in a minimum penalty of $2,000 and a suspension of driving privileges for 90 days.
+
+(b) Repeat Offenses: Repeat offenses may lead to escalating penalties, including increased fines and extended license suspension.
+
+(c) Serious Violations: Incidents involving spills, leaks, or failure to report emergencies may result in more severe penalties.
+
+### 6.08 Reporting Violations:
+
+(a) Duty to Report: Drivers and carriers must promptly report any violations of hazardous materials transportation regulations to the appropriate authorities.
+
+(b) Reporting Period: Reports must be submitted within 24 hours of the occurrence of the violation.
+
+### 6.09 Due Process:
+
+(a) Right to Contest: Individuals facing penalties have the right to contest charges, seek legal representation, and undergo due process.
+
+(b) Hearings: Drivers and carriers have the right to request a hearing to present evidence or arguments related to hazardous materials transport violations.
+
+## (10)07. Insurance Requirements
+
+### 7.01 Minimum Insurance Coverage:
+
+(a) Liability Insurance: Commercial vehicle operators must maintain liability insurance coverage with minimum limits as follows:
+
+		(i) $1,000,000 for bodily injury or death per occurrence.
+		(ii) $500,000 for property damage per occurrence.
+
+(b) Cargo Insurance: Carriers must secure cargo insurance to cover potential damage or loss of transported goods.
+
+### 7.02 Proof of Insurance:
+
+(a) On-Demand Proof: Drivers must carry proof of insurance and provide it upon request by law enforcement or other authorized entities.
+
+(b) Electronic Proof: Electronic versions of insurance documents are acceptable for proof.
+
+### 7.03 Reporting Insurance Changes:
+
+(a) Timely Reporting: Carriers and operators must report any changes in insurance coverage to the relevant authorities within 10 days.
+
+(b) Consequences for Non-Reporting: Failure to report changes in insurance coverage may result in fines and penalties.
+
+### 7.04 Self-Insurance:
+
+(a) Approval Required: Entities seeking self-insurance status must apply for and receive approval from the appropriate regulatory body.
+
+(b) Financial Requirements: Self-insured entities must demonstrate financial responsibility and ability to cover potential liabilities.
+
+### 7.05 Penalties for Lack of Insurance:
+
+(a) Minimum Penalty: Operating a commercial vehicle without the required insurance may result in a minimum penalty of $1,000 and a suspension of driving privileges for 30 days.
+
+(b) Repeat Offenses: Repeat offenses may lead to escalating penalties, including increased fines and extended license suspension.
+
+### 7.06 Reporting Violations:
+
+(a) Duty to Report: Drivers and carriers must promptly report any violations of insurance requirements to the appropriate authorities.
+
+(b) Reporting Period: Reports must be submitted within 24 hours of the occurrence of the violation.
+
+### 7.07 Due Process:
+
+(a) Right to Contest: Individuals facing penalties have the right to contest charges, seek legal representation, and undergo due process.
+
+(b) Hearings: Drivers and carriers have the right to request a hearing to present evidence or arguments related to insurance requirement violations.
+
+## (10)08. Registration
+
+### 8.01 Vehicle Registration Requirements:
+
+(a) Valid Registration: All commercial vehicles must be registered with the appropriate state authorities and display valid registration credentials.
+
+(b) Renewal Period: Vehicle registration must be renewed annually, and operators must comply with renewal deadlines.
+
+### 8.02 Display of Registration Credentials:
+
+(a) Visible Display: Vehicle operators must ensure that current registration credentials are visibly displayed on the vehicle.
+
+(b) Electronic Display: Electronic versions of registration documents are acceptable for display.
+
+### 8.03 Reporting Changes in Vehicle Status:
+
+(a) Timely Reporting: Operators must report any changes in vehicle status, including sale, transfer, or decommissioning, to the relevant authorities within 10 days.
+
+(b) Consequences for Non-Reporting: Failure to report changes in vehicle status may result in fines and penalties.
+
+### 8.04 Temporary Permits:
+
+(a) Purpose: Temporary permits may be issued for specific circumstances, such as the transport of oversized loads or out-of-state operations.
+
+(b) Duration: Temporary permits are valid for a specified period and must be prominently displayed.
+
+### 8.05 Penalties for Unregistered Vehicles:
+
+(a) Minimum Penalty: Operating a commercial vehicle without valid registration may result in a minimum penalty of $500 and a suspension of driving privileges for 15 days.
+
+(b) Repeat Offenses: Repeat offenses may lead to escalating penalties, including increased fines and extended license suspension.
+
+### 8.06 Reporting Violations:
+
+(a) Duty to Report: Drivers and carriers must promptly report any violations of registration requirements to the appropriate authorities.
+
+(b) Reporting Period: Reports must be submitted within 24 hours of the occurrence of the violation.
+
+### 8.07 Due Process:
+
+(a) Right to Contest: Individuals facing penalties have the right to contest charges, seek legal representation, and undergo due process.
+
+(b) Hearings: Drivers and carriers have the right to request a hearing to present evidence or arguments related to registration requirement violations.
+
+## (10)09. Required Documentation
+
+### 9.01 Duty Log Book:
+
+(a) Mandatory Record Keeping: All commercial vehicle operators must maintain a duty log book, accurately documenting hours of service, rest breaks, and duty status changes.
+
+(b) Accessibility: The duty log book must be readily accessible to law enforcement and regulatory authorities upon request.
+
+### 9.02 Medical Certificate:
+
+(a) Validity: Commercial drivers must possess a current and valid medical certificate issued by an authorized medical professional.
+
+(b) Renewal Requirements: Drivers are responsible for renewing their medical certificate in accordance with regulatory guidelines.
+
+### 9.03 Accurate Cargo Manifest (Cargo-Carrying Vehicles Only):
+
+(a) Requirement: Operators of cargo-carrying vehicles must maintain an accurate cargo manifest detailing the contents, quantity, and other pertinent information about the transported goods.
+
+(b) Inspection Access: The cargo manifest must be made available for inspection by law enforcement or regulatory authorities upon request.
+
+### 9.04 Complete Driver's Vehicle Inspection Record:
+
+(a) Regular Inspections: Drivers must perform pre-trip and post-trip inspections of their commercial vehicles, documenting the condition of key components.
+
+(b) Recordkeeping: A complete driver's vehicle inspection record must be maintained, noting any defects or issues discovered during inspections.
+
+### 9.05 Reporting Non-Compliance:
+
+(a) Duty to Report: Drivers and carriers must promptly report any failure to maintain required documentation to the appropriate authorities.
+
+(b) Reporting Period: Reports must be submitted within 24 hours of the occurrence of the violation.
+
+### 9.06 Penalties for Non-Compliance:
+
+(a) Minimum Penalty: Failure to maintain required documentation may result in a minimum penalty of $500 and a suspension of driving privileges for 15 days.
+
+(b) Repeat Offenses: Repeat offenses may lead to escalating penalties, including increased fines and extended license suspension.
+
+### 9.07 Due Process:
+
+(a) Right to Contest: Individuals facing penalties have the right to contest charges, seek legal representation, and undergo due process.
+
+(b) Hearings: Drivers and carriers have the right to request a hearing to present evidence or arguments related to documentation requirement violations.
+
+## (10)10. Electronic Logging Devices (ELD)
+
+### 10.01 ELD Installation and Usage:
+
+(a) Mandatory Installation: Commercial vehicles subject to hours of service regulations must be equipped with a functioning Electronic Logging Device (ELD).
+
+(b) Proper Functionality: ELDs must accurately record and display the driver's hours of service, ensuring compliance with regulatory limits.
+
+### 10.02 Driver Responsibilities:
+
+(a) Log Verification: Drivers are responsible for verifying the accuracy of ELD records and making corrections as necessary.
+
+(b) Training: Operators must be adequately trained on the proper use and functionality of ELDs.
+
+### 10.03 Data Security and Access:
+
+(a) Data Protection: ELDs must have safeguards to protect recorded data against tampering or unauthorized access.
+
+(b) Accessibility for Inspection: Law enforcement and regulatory authorities must be provided access to ELD data during inspections.
+
+### 10.04 Malfunction Reporting and Resolution:
+
+(a) Immediate Reporting: Drivers must promptly report any ELD malfunctions to carriers and follow prescribed procedures for resolving issues.
+
+(b) Temporary Documentation: In case of ELD malfunctions, drivers must maintain manual records until the issue is resolved.
+
+### 10.05 Non-Compliance Penalties:
+
+(a) Minimum Penalty: Failure to use a functioning ELD when required may result in a minimum penalty of $1,000 and a suspension of driving privileges for 30 days.
+
+(b) Repeat Offenses: Repeat offenses may lead to escalating penalties, including increased fines and extended license suspension.
+
+### 10.06 Reporting Non-Compliance:
+
+(a) Duty to Report: Drivers and carriers must promptly report any failure to comply with ELD regulations to the appropriate authorities.
+
+(b) Reporting Period: Reports must be submitted within 24 hours of the occurrence of the violation.
+
+### 10.07 Due Process:
+
+(a) Right to Contest: Individuals facing penalties have the right to contest charges, seek legal representation, and undergo due process.
+
+(b) Hearings: Drivers and carriers have the right to request a hearing to present evidence or arguments related to ELD compliance violations.
+
+## (10)11. Load Securement
+
+### 11.01 General Load Securement Requirements:
+
+(a) Duty to Secure Load: Commercial vehicle operators are responsible for ensuring that all transported cargo is properly secured to prevent shifting or falling during transit.
+
+(b) Compliance with Guidelines: Load securement must adhere to federal and state guidelines, including but not limited to the North American Cargo Securement Standard.
+
+### 11.02 Proper Use of Restraints:
+
+(a) Appropriate Restraints: Operators must use appropriate restraints, such as tie-downs, binders, and straps, based on the type and size of the cargo being transported.
+
+(b) Inspection: Restraints must be regularly inspected for wear, damage, or deterioration, and any compromised restraints must be promptly replaced.
+
+### 11.03 Vehicle Weight Distribution:
+
+(a) Balanced Distribution: Cargo must be evenly distributed within the vehicle to prevent overloading on one side or one axle.
+
+(b) Compliance Checks: Law enforcement may conduct inspections to ensure proper weight distribution and load securement.
+
+### 11.04 Overhang Limitations:
+
+(a) Maximum Overhang: Cargo extending beyond the front or rear of the vehicle must not exceed legal limitations, as specified in state regulations.
+
+(b) Warning Markings: Overhanging cargo must be marked with warning flags or lights during nighttime or low visibility conditions.
+
+### 11.05 Reporting Non-Compliance:
+
+(a) Duty to Report: Drivers and carriers must promptly report any failure to comply with load securement regulations to the appropriate authorities.
+
+(b) Reporting Period: Reports must be submitted within 24 hours of the occurrence of the violation.
+
+### 11.06 Penalties for Load Securement Violations:
+
+(a) Minimum Penalty: Violations of load securement regulations may result in a minimum penalty of $1,000 and a suspension of driving privileges for 15 days.
+
+(b) Repeat Offenses: Repeat offenses may lead to escalating penalties, including increased fines and extended license suspension.
+
+### 11.07 Due Process:
+
+(a) Right to Contest: Individuals facing penalties have the right to contest charges, seek legal representation, and undergo due process.
+
+(b) Hearings: Drivers and carriers have the right to request a hearing to present evidence or arguments related to load securement violations.

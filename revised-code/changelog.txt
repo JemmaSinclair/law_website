@@ -1,0 +1,15 @@
+# Changelog
+
+## 12/27/2023
+
+ - Added mentions of busses to (17)04.
+ - Changed exemption on (17)11 to include off-duty officers.
+ 
+## 12/30/2023
+
+ - Removed Good Sumaritan Clause from Accident Reporting Requirements due to unneccesary redundancy.
+ - Modified Evading a Peace Officer to include any evading from an officer, not just following a traffic stop.
+ 
+## 1/7/2024
+
+ - Finished Title 4

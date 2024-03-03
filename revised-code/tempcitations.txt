@@ -1,0 +1,44 @@
+Title 1, § 1.02(a) Criminal Threats
+Title 1, § 2.02(a) Assault
+Title 1, § 2.02(b) Aggravated Assault
+Title 1, § 3.02(a) Simple Battery
+Title 1, § 3.02(b) Aggravated Battery
+Title 1, § 4.02(a) Attempted Murder
+Title 1, § 5.02(a) Voluntary Manslaughter
+Title 1, § 5.02(b) Involuntary Manslaughter
+Title 1, § 6.02(a) First Degree Murder
+Title 1, § 6.02(b) Second Degree Murder
+Title 1, § 7.02(a) False Imprisonment
+Title 1, § 8.02(a) Kidnapping
+Title 1, § 8.02(b) Aggravated Kidnapping
+Title 1, § 9.02(a) Torture
+Title 1, § 9.02(b) Aggravated Torture
+Title 1, § 10.02(a) Reckless Endangerment Misdemeanor
+Title 1, § 10.02(b) Reckless Endangerment Felony
+Title 1, § 11.02(a) Desecration of a Human Corpse
+Title 1, § 11.02(b) Aggravated Desecration
+
+Title 2, § 1.02(a) Arson
+Title 2, § 1.02(b) Aggravated Arson
+Title 2, § 2.02(a) Tresspassing
+Title 2, § 2.02(b) Aggravated Tresspassing
+Title 2, § 3.02(a) Tresspassing within a Restricted Facility
+Title 2, § 3.02(b) Aggravated Tresspassing within a Restricted Facility
+Title 2, § 4.02(a) Burglary
+Title 2, § 4.02(b) Aggravated Burglary
+Title 2, § 5.02(a) Possession of Burglary Tools
+Title 2, § 5.02(b) Aggravated Possession of Burglary Tools
+Title 2, § 6.02(a) Robbery
+Title 2, § 6.02(b) Armed Robbery
+Title 2, § 7.02(a) Petty Theft
+Title 2, § 7.02(b) Grand Theft
+Title 2, § 7.02(c) Grand Theft on a Vehicle
+Title 2, § 8.02(a) Receiving Stolen Property
+Title 2, § 8.02(b) Aggravated Receiving Stolen Property
+Title 2, § 9.02(a) Extortion
+Title 2, § 9.02(b) Aggravated Extortion
+Title 2, § 10.02(a) Forgery
+Title 2, § 10.02(b) Fraud
+Title 2, § 10.02(c) Aggravated Forgery/Fraud
+Title 2, § 11.02(a) Vandalism
+Title 2, § 11.02(b) Aggravated Vandalism
